@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "event_id": 1,
+      "host_family_id": 4,
+      "guest_family_ids": [
+        8,
+        7,
+        3
+      ]
+    },
+    {
+      "event_id": 2,
+      "host_family_id": 4,
+      "guest_family_ids": [
+        6,
+        5,
+        10
+      ]
+    },
+    {
+      "event_id": 3,
+      "host_family_id": 1,
+      "guest_family_ids": [
+        8,
+        5
+      ]
+    },
+    {
+      "event_id": 4,
+      "host_family_id": 2,
+      "guest_family_ids": [
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "event_id": 5,
+      "host_family_id": 1,
+      "guest_family_ids": [
+        9,
+        3
+      ]
+    },
+    {
+      "event_id": 6,
+      "host_family_id": 1,
+      "guest_family_ids": [
+        10,
+        7
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 1,
+      "event_ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "series_id": 2,
+      "event_ids": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "series_id": 3,
+      "event_ids": []
+    },
+    {
+      "series_id": 4,
+      "event_ids": []
+    }
+  ]
+}

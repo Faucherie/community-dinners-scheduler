@@ -1,0 +1,124 @@
+{
+    "persons": [
+        {
+            "person_id": 1,
+            "family_id": 1,
+            "first_name": "David",
+            "last_name": "Doe",
+            "age": 30,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "david.doe@example.com"
+        },
+        {
+            "person_id": 2,
+            "family_id": 1,
+            "first_name": "Darria",
+            "last_name": "Doe",
+            "age": 25,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "darria.doe@example.com"
+        },
+        {
+            "person_id": 3,
+            "family_id": 1,
+            "first_name": "David",
+            "last_name": "Doe",
+            "age": 10,
+            "kid": true,
+            "phone": "",
+            "email": ""
+        },
+        {
+            "person_id": 4,
+            "family_id": 2,
+            "first_name": "Sam",
+            "last_name": "Smith",
+            "age": 25,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "jack.smith@example.com"
+        },
+        {
+            "person_id": 5,
+            "family_id": 2,
+            "first_name": "Sally",
+            "last_name": "Smith",
+            "age": 25,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "sally.smith@example.com"
+        },
+        {
+            "person_id": 6,
+            "family_id": 2,
+            "first_name": "Sarah",
+            "last_name": "Smith",
+            "age": 8,
+            "kid": true,
+            "phone": "",
+            "email": ""
+        },
+        {
+            "person_id": 7,
+            "family_id": 2,
+            "first_name": "Sandra",
+            "last_name": "Smith",
+            "age": 6,
+            "kid": true,
+            "phone": "",
+            "email": ""
+        },
+        {
+            "person_id": 8,
+            "family_id": 3,
+            "first_name": "Pete",
+            "last_name": "Price",
+            "age": 40,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "pete.price@example.com"
+        },
+        {
+            "person_id": 9,
+            "family_id": 3,
+            "first_name": "Phoebe",
+            "last_name": "Price",
+            "age": 6,
+            "kid": true,
+            "phone": "",
+            "email": ""
+        },
+        {
+            "person_id": 10,
+            "family_id": 4,
+            "first_name": "Brian",
+            "last_name": "Bridger",
+            "age": 43,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "brian.bridger@example.com"
+        },
+        {
+            "person_id": 11,
+            "family_id": 4,
+            "first_name": "Brianna",
+            "last_name": "Bridger",
+            "age": 45,
+            "kid": false,
+            "phone": "123-456-7890",
+            "email": "brianna.bridger@example.com"
+        },
+        {
+            "person_id": 12,
+            "family_id": 4,
+            "first_name": "Brett",
+            "last_name": "Bridger",
+            "age": 18,
+            "kid": true,
+            "phone": "",
+            "email": ""
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "families":[
+        {
+            "family_id":1,
+            "name": "Doe",
+            "address": "1 address, example, AA 12345",
+            "can_host": true,
+            "max_guests": 2,
+            "family_members": [1,2,3]
+        },
+        {
+            "family_id":2,
+            "name": "Smith",
+            "address": "2 address, example, BB 12345",
+            "can_host": true,
+            "max_guests": 3,
+            "family_members": [4,5,6,7]
+        },
+        {
+            "family_id":3,
+            "name": "Price",
+            "address": "3 address, example, CC 12345",
+            "can_host": false,
+            "family_members": [8,9]
+        },
+        {
+            "family_id":4,
+            "name": "Bridger",
+            "address": "4 address, example, DD 12345",
+            "can_host": true,
+            "family_members": [10,11,12]
+        },
+        {
+            "family_id":5,
+            "name": "Johnson",
+            "address": "5 address, example, EE 12345",
+            "can_host": false,
+            "family_members": [13,14,15,16,17]
+        },
+        {
+            "family_id":6,
+            "name": "Williams",
+            "address": "6 address, example, FF 12345",
+            "can_host": false,
+            "family_members": [18,19,20,21]
+        },
+        {
+            "family_id":7,
+            "name": "Brown",
+            "address": "7 address, example, GG 12345",
+            "can_host": false,
+            "family_members": [22,23,24]
+        },
+        {
+            "family_id":8,
+            "name": "Davis",
+            "address": "8 address, example, HH 12345",
+            "can_host": false,
+            "family_members": [25,26,27,28,29]
+        },
+        {
+            "family_id":9,
+            "name": "Miller",
+            "address": "9 address, example, II 12345",
+            "can_host": false,
+            "family_members": [30,31,32,33]
+        },
+        {
+            "family_id":10,
+            "name": "Wilson",
+            "address": "10 address, example, JJ 12345",
+            "can_host": false,
+            "family_members": [34,35,36]
+        }
+    ]
+}
